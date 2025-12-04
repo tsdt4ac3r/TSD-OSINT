@@ -26,9 +26,19 @@ TSD OSINT is a Python-based OSINT (Open Source Intelligence) tool designed to ga
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/tsdt4ac3r/TSD-OSINT.git
-cd TSD-OSINT
+git clone https://github.com/YOUR_USERNAME/TSD-OSINT.git
+cd TSD-OSINT 
+
+## Install dependencies
+
 pip install -r requirements.txt
+
+(Optional) Run auto-installer for Linux:
+
 bash install.sh
+
+## Run the tool
+
 python tsd_osint.py
 
+Follow the on-screen menu to select the desired OSINT mode.
