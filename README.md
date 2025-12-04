@@ -3,6 +3,16 @@ TSD OSINT - A Python-based OSINT tool for gathering information from social medi
 # TSD OSINT
 
 ![TSD OSINT Banner](assets/banner.png)
+████████╗ ███████╗ ██████╗      ██████╗ ███████╗██╗███╗  ██╗████████╗
+╚══██╔══╝ ██╔════╝ ██╔══██╗    ██╔════╝ ██╔════╝██║████╗ ██║╚══██╔══╝
+   ██║    █████╗   ██████╔╝    ██║  ███╗█████╗  ██║██╔██╗██║   ██║
+   ██║    ██╔══╝   ██╔═══╝     ██║   ██║██╔══╝  ██║██║╚████║   ██║
+   ██║    ███████╗ ██║         ╚██████╔╝███████╗██║██║ ╚███║   ██║
+   ╚═╝    ╚══════╝ ╚═╝          ╚═════╝ ╚══════╝╚═╝╚═╝  ╚══╝   ╚═╝
+
+               TSD OSINT
+        Created By Tr4c3r
+  Instagram: @_.tsd3rr0r
 
 **By TSD3RR0R**  
 Instagram: [@_.tsd3rr0r](https://instagram.com/_.tsd3rr0r)
