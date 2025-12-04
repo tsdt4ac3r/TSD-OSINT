@@ -2,7 +2,7 @@
 TSD OSINT - A Python-based OSINT tool for gathering information from social media, emails, phone numbers, and more. By TSD3RR0R.
 # TSD OSINT
 
-![TSD OSINT Banner](assets/banner.png)
+
 ████████╗ ███████╗ ██████╗      ██████╗ ███████╗██╗███╗  ██╗████████╗
 ╚══██╔══╝ ██╔════╝ ██╔══██╗    ██╔════╝ ██╔════╝██║████╗ ██║╚══██╔══╝
    ██║    █████╗   ██████╔╝    ██║  ███╗█████╗  ██║██╔██╗██║   ██║
@@ -36,7 +36,7 @@ TSD OSINT is a Python-based OSINT (Open Source Intelligence) tool designed to ga
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/TSD-OSINT.git
+git clone https://github.com/tsdt4ac3r/TSD-OSINT.git
 cd TSD-OSINT 
 
 ## Install dependencies
